@@ -1,3 +1,4 @@
+”start”: “node index”
 var Botkit = require('botkit');
 var request = require("request");
 var _ = require("lodash");
